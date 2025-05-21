@@ -1,6 +1,6 @@
 # Microsoft BUILD 2025 基調講演 Day 1 - Satya Nadella 氏によるオープニングキーノート
 
-2025年5月19日に開催されたMicrosoft BUILD 2025のDay 1基調講演では、Microsoftのセイヤ・ナデラCEOが登壇し、「AIエージェント時代」をテーマに様々な発表がありました。本記事ではその主要ポイントをまとめます。
+2025年5月19日に開催されたMicrosoft BUILD 2025のDay 1基調講演では、Microsoftのサティア・ナデラCEOが登壇し、「AIエージェント時代」をテーマに様々な発表がありました。本記事ではその主要ポイントをまとめます。
 
 ![Satya Nadella at Microsoft BUILD 2025](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/331209i5E84AF6643F03F26?v=1.0)
 
