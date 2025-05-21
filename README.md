@@ -1,5 +1,8 @@
 # Microsoft BUILD 2025 Blog
 
+
+![Microsoft Build 2025](https://asset.watch.impress.co.jp/img/wf/docs/2015/640/msbuild-00-00_l.png)
+
 マイクロソフトの年次開発者会議「Microsoft BUILD 2025」に関するブログ記事をまとめています。GitHub Copilot Coding Agentによって作成されました。
 
 ## 目次
