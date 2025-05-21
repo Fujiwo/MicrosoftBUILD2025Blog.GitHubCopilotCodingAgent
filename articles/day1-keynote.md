@@ -89,7 +89,7 @@ Microsoft BUILD 2025の初日は、AIエージェントを中心とした数多�
 
 参考文献：
 - [Microsoft Build opening keynote](https://build.microsoft.com/en-US/sessions/KEY010)
-- [Microsoft Build 2025 | Satya Nadella Opening Keynote - YouTube](https://www.youtube.com/watch?v=ceV3RsG946s&t=975s)
+- [Microsoft Build 2025 | Satya Nadella Opening Keynote - YouTube](https://www.youtube.com/watch?v=ceV3RsG946s)
 - [マイクロソフトBuild 2025ニュースブック](https://news.microsoft.com/build-2025-book-of-news/ja/)
 - [Microsoft Build 2025基調講演まとめ　テーマは「AIエージェント時代」 - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2505/20/news097.html)
 - [MicrosoftはAIに全集中！ 盛りだくさんの「Microsoft Build 2025 基調講演はAI一色に - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2015640.html)
