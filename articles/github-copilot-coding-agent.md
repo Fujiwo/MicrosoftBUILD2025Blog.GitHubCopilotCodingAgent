@@ -2,7 +2,7 @@
 
 Microsoft BUILD 2025で最も注目を集めた発表の一つが、「GitHub Copilot Coding Agent」のパブリックプレビューです。このツールは、AIが自律的にコードを書き、問題を解決する新しい開発パラダイムを提供します。本記事では、GitHub Copilot Coding Agentの機能や特徴について詳しく解説します。
 
-![GitHub Copilot Coding Agent](https://www.publickey1.jp/blog/25/copilot_coding_agent1.png)
+![GitHub Copilot Coding Agent](https://www.publickey1.jp/2025/github-codingagent-01.png)
 
 ## GitHub Copilot Coding Agentとは
 
@@ -18,7 +18,7 @@ GitHub Copilot Coding Agentは、Issueをアサインすると自律的にコー
 
 GitHub Copilot Coding Agentは、Issueの説明を読み取り、問題を解決するために必要なコードを自動的に生成します。レポジトリの構造を理解し、適切なファイルを修正できます。
 
-![Issue解決の流れ](https://www.kentsu.website/ja/posts/2025/copilot_coding/github-copilot-coding-agent-assignment.png)
+![Issue解決の流れ](https://www.kentsu.website/images/posts/2025/copilot_coding/image02.png)
 
 > 「AIに対してIssueをアサインすると、Copilot Coding Agentはレポジトリ全体をスキャンし、問題を理解した上で必要な修正を行います」
 
@@ -34,7 +34,7 @@ Issueを解決した後、Coding Agentは自動的にプルリクエストを作
 - テスト結果の報告
 - 考慮した代替案の説明
 
-![プルリクエストの例](https://www.kentsu.website/ja/posts/2025/copilot_coding/github-copilot-coding-agent-pullrequest.png)
+![プルリクエストの例](https://www.kentsu.website/images/posts/2025/copilot_coding/image04.png)
 
 出典: [GitHub Copilot Coding Agent がやばすぎて共有し隊 – クラウドを勉強し隊](https://www.kentsu.website/ja/posts/2025/copilot_coding/)
 
@@ -54,7 +54,7 @@ GitHub Copilot Coding Agentは、マイクロソフトが提唱する「Agentic 
 - Azure Test Agent（テスト自動化）
 - DevOpsアシスタント（運用支援）
 
-![Agentic DevOps](https://azure.microsoft.com/mediahandler/files/blogs/agentic-devops-banner-101.jpg)
+![Agentic DevOps](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/05/1042849_MS_Azure_Build-2025_BlogHeader-2_1260x708-1.webp)
 
 出典: [Agentic DevOps: Evolving software development with GitHub Copilot and Microsoft Azure | Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/agentic-devops-evolving-software-development-with-github-copilot-and-microsoft-azure/)
 
@@ -82,7 +82,7 @@ GitHub Copilot Coding Agentは現在パブリックプレビュー段階で、�
 3. リポジトリにCoding Agentを追加
 4. Issueを作成し、Coding Agentをアサイン
 
-![設定画面](https://www.kentsu.website/ja/posts/2025/copilot_coding/github-copilot-coding-agent-setting.png)
+![設定画面](https://www.kentsu.website/images/posts/2025/copilot_coding/image01.png)
 
 出典: [GitHub Copilot Coding Agent がやばすぎて共有し隊 – クラウドを勉強し隊](https://www.kentsu.website/ja/posts/2025/copilot_coding/)
 

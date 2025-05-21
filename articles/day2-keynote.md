@@ -2,7 +2,7 @@
 
 Microsoft BUILD 2025の2日目は、初日に発表された技術の詳細と、さらなる新機能の紹介に焦点が当てられました。本記事では、「Unpacking the tech」セッションと「Scott and Mark Learn to...LIVE」セッションの主要ポイントを紹介します。
 
-![Microsoft BUILD 2025 Day 2](https://blog.azure.moe/wp-content/uploads/2025/05/ms-build-banner-day2.jpg)
+![Microsoft BUILD 2025 Day 2](https://blog.azure.moe/wp-content/uploads/2025/05/screenshot_2025_05_21-4.png)
 
 ## Unpacking the tech セッション
 
@@ -17,7 +17,7 @@ Azure AI Foundryは、AIアプリケーションとエージェント開発の�
 - 複数のAIモデルを統合したエージェント作成機能
 - セキュリティとコンプライアンスのためのガバナンス機能
 
-![Azure AI Foundry](https://azure.microsoft.com/images/page/products/ai-services/foundry/ai-foundry-hero.jpg)
+![Azure AI Foundry](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2025/05/1042849_MS_Azure_Build-2025_BlogHeader-1_1260x708.webp)
 
 > 「Azure AI Foundryは、AIモデル、ツール、インフラを統合し、エンドツーエンドのAIアプリケーションライフサイクルを実現します。これにより、開発者はAIエージェントの構築と管理に集中できます」
 
@@ -32,7 +32,7 @@ Azure AI Foundryは、AIアプリケーションとエージェント開発の�
 - オフライン環境での開発サポート
 - パフォーマンス最適化機能
 
-![Azure AI Foundry Local](https://www.publickey1.jp/blog/25/azure_ai_foundry_local1.png)
+![Azure AI Foundry Local](https://www.publickey1.jp/2025/windows-ai-foundry02.png)
 
 出典: [［速報］マイクロソフト、AIモデルをWindows/macOSローカルで実行可能にする「Azure AI Foundry Local」発表 － Publickey](https://www.publickey1.jp/blog/25/aiwindowsmacosazure_ai_foundry_local.html)
 
@@ -45,7 +45,7 @@ Azure AI Foundryは、AIアプリケーションとエージェント開発の�
 - AIエージェントによる分析の自動化
 - 高度なデータ可視化機能
 
-![Microsoft Fabric](https://japan.zdnet.com/storage/2025/05/20/b9686b9ffa39f4917dc9ea794b72c119/fabric-75.jpg)
+![Microsoft Fabric](https://japan.zdnet.com/storage/2025/05/20/75a7e3b9a47d8c81d855d243664ac01f/microsoft-2025-digital-twin-builder-graphic.jpg)
 
 出典: [マイクロソフト、分析プラットフォーム「Fabric」のデータ統合やAIエージェントを拡充 - ZDNET Japan](https://japan.zdnet.com/article/35233195/)
 
@@ -57,7 +57,7 @@ Azure AI Foundryは、AIアプリケーションとエージェント開発の�
 
 Microsoft Windows向けの新しいコマンドラインテキストエディター「Edit」が発表されました。このエディターは、Vimよりも学習曲線が緩やかで、初心者にも使いやすいことを特徴としています。
 
-![Windows Edit](https://forest.watch.impress.co.jp/img/wf/docs/2015/418/edit1.jpg)
+![Windows Edit](https://asset.watch.impress.co.jp/img/wf/docs/2015/418/image1.png)
 
 > 「多くの開発者がVimの急峻な学習曲線に苦労しています。私たちは、簡単に使い始められるが強力な機能を備えたエディターを開発しました」
 
@@ -72,7 +72,7 @@ WindowsエクスプローラーにGitサポートが統合されることが発�
 - コミット履歴の閲覧
 - 変更のステージング
 
-![Explorer Git Integration](https://forest.watch.impress.co.jp/img/wf/docs/2015/419/explorer.jpg)
+![Explorer Git Integration](https://asset.watch.impress.co.jp/img/wf/docs/2015/419/image2.png)
 
 出典: [「エクスプローラー」の「Git」統合などが実現へ ～Microsoftが開発者向け新機能 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2015419.html)
 
@@ -93,7 +93,7 @@ WindowsエクスプローラーにGitサポートが統合されることが発�
 
 マイクロソフトは自然言語からウェブアプリケーションを生成する「NLWeb」を発表しました。これにより、テキスト説明だけでウェブアプリを作成することが可能になります。
 
-![NLWeb](https://storage.googleapis.com/zenn-user-upload/a911ae66e54e-20250520.png)
+![NLWeb](https://res.cloudinary.com/zenn/image/fetch/s--iIoUL_h2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/3c79819678a5bd404cb21bc3.png%3Fsha%3D7ae72a1cd7534985528d8054b2c7d9405d4592ae)
 
 主な特徴：
 - 自然言語からウェブアプリ自動生成
@@ -119,7 +119,7 @@ MicrosoftはAIマーケットプレイスにイーロン・マスク氏が設立
 - Entra Agent IDによる安全なアクセス管理
 - コンプライアンスチェック機能
 
-![AI Security](https://japan.zdnet.com/storage/2025/05/20/9760ff4f886fa880db7d3e58deb7d417/security-75.jpg)
+![AI Security](https://japan.zdnet.com/storage/2025/05/20/30da00447d550a6ab15b22dfd898a52c/gettyimages-2195052246.jpg)
 
 出典: [マイクロソフト、「Build 2025」でAIエージェントの信頼性とセキュリティ強化ツールを発表 - ZDNET Japan](https://japan.zdnet.com/article/35233173/)
 

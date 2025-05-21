@@ -18,7 +18,7 @@ Microsoft 365 Copilot Tuningは、企業がMicrosoft 365 Copilotを自社の業�
 
 Copilot Tuningでは、組織固有のデータを使用してCopilotに追加学習させることができます。これには、社内文書、テンプレート、過去の通信履歴などが含まれます。
 
-![Copilot Tuning データ学習](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/05/Copilot-Tuning-1.png)
+![Copilot Tuning データ学習](https://www.publickey1.jp/2025/copilot-tuning04.png)
 
 主なメリット：
 - 組織固有の用語や表現の理解
@@ -69,7 +69,7 @@ Copilot Tuningでは、セキュリティとコンプライアンスを確保す
 
 Microsoft Copilot Studioを使用して、企業は独自のマルチエージェントソリューションを設計・実装できます。
 
-![Copilot Studio Multi-Agent](https://www.microsoft.com/en-us/microsoft-copilot/blog/wp-content/uploads/sites/57/2025/05/Copilot-Studio-maker-controls.png)
+![Copilot Studio Multi-Agent](https://www.microsoft.com/en-us/microsoft-copilot/blog/wp-content/uploads/2024/08/MicrosoftCopilotStudio-5-19-1-1.webp)
 
 主な提供機能：
 - ノーコードでのエージェントワークフロー設計
@@ -86,7 +86,7 @@ Microsoft BUILD 2025では、Power Platformにおける多数のAI強化機能�
 
 Power Appsに「AI Agents」が導入され、アプリ開発プロセスがさらに効率化されます。
 
-![Power Apps AI Agents](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/sites/2/2025/05/Power-Apps-AI-preview.png)
+![Power Apps AI Agents](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2025/05/GettyImages-1392016982-rgb.jpg)
 
 主な機能：
 - 自然言語によるアプリ設計と変更
@@ -101,7 +101,7 @@ Power Appsに「AI Agents」が導入され、アプリ開発プロセスがさ�
 
 Power Automateには、インテリジェントな自動化機能が追加されました。
 
-![Power Automate AI](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/sites/2/2025/05/Power-Automate-AI-preview.png)
+![Power Automate AI](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/11/11.19-real-featured-image.jpg)
 
 主な機能：
 - AIによる自動フロー作成
@@ -116,7 +116,7 @@ Power Automateには、インテリジェントな自動化機能が追加され
 
 ウェブサイト作成ツール「Power Pages」にもAI機能が強化されました。
 
-![Power Pages AI](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/sites/2/2025/05/Power-Pages-AI-preview.jpg)
+![Power Pages AI](https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/11/MSC24-Canada-education-Getty-1081071702-rgb_1260.jpg)
 
 主な機能：
 - AIによるウェブサイト自動生成
@@ -129,7 +129,7 @@ Power Automateには、インテリジェントな自動化機能が追加され
 
 Microsoft Edgeブラウザにも3つの新AI機能が追加されました。
 
-![Edge AI](https://japan.zdnet.com/storage/2025/05/20/a9f81b02abe9e0d3dd78c3cb9b752826/edge-75.jpg)
+![Edge AI](https://japan.zdnet.com/storage/2025/05/20/1a0a19008b1aeee48f1ecb4b84275204/microsoft-edge-copilot.jpg)
 
 ### 1. PDF翻訳機能
 
@@ -149,7 +149,7 @@ PDFドキュメントをワンクリックで翻訳できる機能が追加さ�
 
 データ分析プラットフォーム「Microsoft Fabric」には、AIエージェントとの統合およびデータ統合機能の強化が発表されました。
 
-![Microsoft Fabric](https://japan.zdnet.com/storage/2025/05/20/b9686b9ffa39f4917dc9ea794b72c119/fabric-75.jpg)
+![Microsoft Fabric](https://japan.zdnet.com/storage/2025/05/20/75a7e3b9a47d8c81d855d243664ac01f/microsoft-2025-digital-twin-builder-graphic.jpg)
 
 主な拡充点：
 - AIエージェントとFabricの統合
@@ -162,7 +162,7 @@ PDFドキュメントをワンクリックで翻訳できる機能が追加さ�
 
 企業環境でのAIエージェント活用を安全に進めるため、セキュリティとガバナンスの強化も発表されました。
 
-![AI Security](https://japan.zdnet.com/storage/2025/05/20/9760ff4f886fa880db7d3e58deb7d417/security-75.jpg)
+![AI Security](https://japan.zdnet.com/storage/2025/05/20/30da00447d550a6ab15b22dfd898a52c/gettyimages-2195052246.jpg)
 
 主な機能：
 - エージェントアクティビティの監視と監査

@@ -2,7 +2,7 @@
 
 2025年5月19日に開催されたMicrosoft BUILD 2025のDay 1基調講演では、Microsoftのサティア・ナデラCEOが登壇し、「AIエージェント時代」をテーマに様々な発表がありました。本記事ではその主要ポイントをまとめます。
 
-![Satya Nadella at Microsoft BUILD 2025](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/331209i5E84AF6643F03F26?v=1.0)
+![Satya Nadella at Microsoft BUILD 2025](https://image.itmedia.co.jp/news/articles/2505/20/l_yu_satya.jpg)
 
 ## AIエージェント時代の到来
 
@@ -21,7 +21,7 @@ Microsoftは、AIエージェント同士が連携するためのプロトコル
 - MCP on Windowsのサポート
 - Microsoft 365でのMCPサポート
 
-![MCP概念図](https://www.publickey1.jp/blog/25/windows_mcp_2.jpg)
+![MCP概念図](https://www.publickey1.jp/2025/windows-support-mcp.png)
 
 出典: [［速報］マイクロソフト、WindowsがMCPをサポートすると発表。AIエージェントでWindowsやアプリとの連携が可能に － Publickey](https://www.publickey1.jp/blog/25/windowsmcpaiwindows.html)
 
@@ -34,7 +34,7 @@ Windowsプラットフォーム上でのAIアプリケーション開発を加�
 - 最適化されたNPUパフォーマンス
 - GPU統合とメモリ効率の向上
 
-![Windows AI Foundry](https://pc.watch.impress.co.jp/img/pcw/docs/2015/325/01.jpg)
+![Windows AI Foundry](https://asset.watch.impress.co.jp/img/pcw/docs/2015/325/001_l.jpg)
 
 出典: [AIアプリ開発を加速する「Windows AI Foundry」、AI用ID「Entra Agent ID」が登場～Microsoft Build 2025 - PC Watch](https://pc.watch.impress.co.jp/docs/news/2015325.html)
 
@@ -49,7 +49,7 @@ Windowsプラットフォーム上でのAIアプリケーション開発を加�
 - プルリクエストの作成と管理
 - レビューフィードバックに基づく改善
 
-![GitHub Copilot Coding Agent](https://www.publickey1.jp/blog/25/copilot_coding_agent1.png)
+![GitHub Copilot Coding Agent](https://www.publickey1.jp/2025/github-codingagent-01.png)
 
 出典: [［速報］「GitHub Copilot Coding Agent」パブリックプレビュー。AIにIssueをアサインすると、解決に向け自律的にプログラミング － Publickey](https://www.publickey1.jp/blog/25/github_copilot_coding_agentaiissue.html)
 
@@ -62,7 +62,7 @@ Windowsプラットフォーム上でのAIアプリケーション開発を加�
 - コミュニティによる貢献の促進
 - エコシステムの拡大
 
-![WSL](https://gigazine.net/img/2025/05/20/microsoft-wsl-opensource/01.jpg)
+![WSL](https://i.gzn.jp/img/2025/05/20/microsoft-wsl-opensource/00_m.png)
 
 出典: [MicrosoftがWindows Subsystem for Linux(WSL)をオープンソース化してコードをGitHubに公開 - GIGAZINE](https://gigazine.net/news/20250520-microsoft-wsl-opensource/)
 
@@ -75,7 +75,7 @@ Windowsプラットフォーム上でのAIアプリケーション開発を加�
 - 業務固有のプロンプト最適化
 - セキュリティとコンプライアンスの確保
 
-![Microsoft 365 Copilot Tuning](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/05/Copilot-Tuning-1.png)
+![Microsoft 365 Copilot Tuning](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/05/09_03_overviewPg_selectAgentModal_vendorOnboardingAgentCard_hover-1.webp)
 
 出典: [Introducing Microsoft 365 Copilot Tuning, multi-agent orchestration, and more from Microsoft Build 2025 | Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2025/05/19/introducing-microsoft-365-copilot-tuning-multi-agent-orchestration-and-more-from-microsoft-build-2025/)
 

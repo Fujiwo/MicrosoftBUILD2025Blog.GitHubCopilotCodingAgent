@@ -2,7 +2,7 @@
 
 Microsoft BUILD 2025で発表された「Windows AI Foundry」は、Windows上でのAIアプリケーション開発を大幅に強化する新しいプラットフォームです。従来の「Windows Copilot Runtime」の発展形として位置づけられ、Model Context Protocol (MCP) のサポートとともに、AIエージェント時代における重要な基盤技術となるでしょう。
 
-![Windows AI Foundry](https://pc.watch.impress.co.jp/img/pcw/docs/2015/325/01.jpg)
+![Windows AI Foundry](https://asset.watch.impress.co.jp/img/wf/docs/2015/420/image1_l.jpg)
 
 ## Windows AI Foundryの概要
 
@@ -23,7 +23,7 @@ Windows AI Foundryは、WindowsプラットフォームでAIモデルを効率�
 
 Windows AI Foundryは、最新のPC向けニューラル処理ユニット(NPU)を最大限に活用できるように設計されています。これにより、AIモデルの高速実行と低消費電力を両立させています。
 
-![NPU優位性](https://pc.watch.impress.co.jp/img/pcw/docs/2015/325/02.jpg)
+![NPU優位性](https://www.publickey1.jp/2025/windows-ai-foundry03.png)
 
 - 最新のQualcomm SnapdragonやIntel、AMD、NVIDIAのNPUに最適化
 - AIモデル実行時のパフォーマンス最適化
@@ -44,7 +44,7 @@ Windows AI Foundryは、NPUだけでなく、GPUやCPUリソースも効率的�
 
 Model Context Protocol (MCP) のネイティブサポートにより、Windows上で動作するAIエージェント間の連携が容易になります。
 
-![MCP on Windows](https://gihyo.jp/assets/images/dev/serial/01/mcp/00/01.png)
+![MCP on Windows](https://asset.watch.impress.co.jp/img/pcw/docs/2015/325/003_l.jpg)
 
 > 「MCP on Windowsは、異なるアプリケーションやサービスで実行されるAIエージェント間でのシームレスな情報共有と連携を可能にします」
 
@@ -68,7 +68,7 @@ AI開発を簡素化するための統合開発環境で、以下の機能を提
 - パフォーマンスプロファイリング
 - デバッグツール
 
-![Windows AI Studio](https://forest.watch.impress.co.jp/img/wf/docs/2015/420/foundry.jpg)
+![Windows AI Studio](https://texal.jp/wp-content/uploads/2023/11/Windows_AI_Studio___Step_1-2100x1124.webp)
 
 出典: [Microsoft、「Windows AI Foundry」を発表 ～「Windows Copilot Runtime」の発展形 - 窓の杜](https://forest.watch.impress.co.jp/docs/news/2015420.html)
 
@@ -85,7 +85,7 @@ AI開発を簡素化するための統合開発環境で、以下の機能を提
 
 Windows AI Foundryと連携して使用できる「Entra Agent ID」は、AIエージェントの認証と認可を管理するためのサービスです。
 
-![Entra Agent ID](https://pc.watch.impress.co.jp/img/pcw/docs/2015/325/agent_id.jpg)
+![Entra Agent ID](https://asset.watch.impress.co.jp/img/pcw/docs/2015/325/004_o.jpg)
 
 主な機能：
 - AIエージェントの安全なアイデンティティ管理
@@ -105,7 +105,7 @@ Windows AI Foundryは、Azure AI Foundry Localと緊密に連携し、ローカ�
 - オフライン環境での開発
 - ローカルとクラウドのシームレスな連携
 
-![Azure AI Foundry Local](https://www.publickey1.jp/blog/25/azure_ai_foundry_local1.png)
+![Azure AI Foundry Local](https://www.publickey1.jp/2025/windows-ai-foundry02.png)
 
 出典: [［速報］マイクロソフト、AIモデルをWindows/macOSローカルで実行可能にする「Azure AI Foundry Local」発表 － Publickey](https://www.publickey1.jp/blog/25/aiwindowsmacosazure_ai_foundry_local.html)
 
@@ -133,7 +133,7 @@ Windows AI Foundryを活用した主なシナリオには以下のようなも�
 
 MCP対応により、複数のAIエージェントが協調して動作するアプリケーションの開発が容易になります。
 
-![マルチエージェント連携](https://japan.zdnet.com/storage/2025/05/20/97e421defbdd9edfe66cc96b00faa7c7/mcp-75.jpg)
+![マルチエージェント連携](https://japan.zdnet.com/storage/2025/05/20/cef6a6e63b112f91862b9584c00107cc/gettyimages-1028740880_1280-1.jpg)
 
 出典: [マイクロソフト、AIエージェント連携プロトコル「MCP」を全面採用へ - ZDNET Japan](https://japan.zdnet.com/article/35233178/)
 
